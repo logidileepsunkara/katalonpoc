@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Add a Team Member</name>
+   <tag></tag>
+   <elementGuidId>d153caa5-35ca-4ed4-b92a-d834d70fedfc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#GlobalBodyContent_InternalBodyContent_BodyContent_PRMAdministrationUser</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='GlobalBodyContent_InternalBodyContent_BodyContent_PRMAdministrationUser']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Add a Team Member&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>0e596c2c-8df3-4179-a369-b53d48996f1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>GlobalBodyContent_InternalBodyContent_BodyContent_PRMAdministrationUser</value>
+      <webElementGuid>cdd39ef5-be24-4fee-b503-0b06e1ff51db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-default mfb-btn-create</value>
+      <webElementGuid>23b0548d-4de3-4e0d-905e-87d675a53553</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>../../PRM/Administration/User/Create</value>
+      <webElementGuid>12e4bfc7-8556-4fcf-855a-a7513ea09c62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Add a Team Member</value>
+      <webElementGuid>fde5474d-e4e8-4dca-977f-95ebf8fc6a88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;GlobalBodyContent_InternalBodyContent_BodyContent_PRMAdministrationUser&quot;)</value>
+      <webElementGuid>9b32bcaf-2b0c-4ef1-abf7-07706cb6c388</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='GlobalBodyContent_InternalBodyContent_BodyContent_PRMAdministrationUser']</value>
+      <webElementGuid>2b309369-977d-4d04-a431-c87db2fe99ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='GlobalBodyContent_InternalBodyContent_BodyContent_CreateButtonsSection']/div/div/a</value>
+      <webElementGuid>c4bb47db-58a8-4a47-9ad2-18c7acd1734a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Add a Team Member')]</value>
+      <webElementGuid>145a39f0-7175-46cf-a8fc-98e6411be870</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='latest partner agreement or portal terms of use'])[1]/following::a[1]</value>
+      <webElementGuid>c6f5a12f-9ace-4fe8-9cd4-bcfe10df98ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Team member management'])[1]/following::a[2]</value>
+      <webElementGuid>47dc3e11-90f1-40ba-9950-b41f22b66b77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Team Member'])[1]/preceding::a[1]</value>
+      <webElementGuid>6abf397a-62c8-4641-9476-2f9c7083ab53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='E-Mail Address'])[1]/preceding::a[1]</value>
+      <webElementGuid>d3eec59e-86e7-420d-8314-f8b4e412e500</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '../../PRM/Administration/User/Create')]</value>
+      <webElementGuid>76dd5634-6755-44c2-99d3-cc48fc2de647</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/div/a</value>
+      <webElementGuid>4e545c34-61ad-4a2f-8a8c-e9afac621da4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'GlobalBodyContent_InternalBodyContent_BodyContent_PRMAdministrationUser' and @href = '../../PRM/Administration/User/Create' and (text() = ' Add a Team Member' or . = ' Add a Team Member')]</value>
+      <webElementGuid>125a64f7-2bf2-4266-a861-cc4684a7b637</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description>User Data for Update Profile</description>
+   <name>New Test Data</name>
+   <tag></tag>
+   <connectionProperties/>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>8f88fa66-6195-4568-b151-bb8b071498bc</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>dsunkara%2Bcrm01apr24%40logitech.com pass%40123 https%3A%2F%2Flogitechlbpp.stage.impartner.live%2FEnglish%2F Your+profile+has+been+updated.</data>
+   <data>pbjtoscauser%2B20240627164908%40logitech.com pass%40123 https%3A%2F%2Flogitechlbpp.stage.impartner.live%2FFrench_Canada%2F Votre+profil+a+bien+%C3%A9t%C3%A9+mis+a+jour.</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>UserName</name>
+      <size>2</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>1</columnIndex>
+      <name>Password</name>
+      <size>2</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>2</columnIndex>
+      <name>PortalURL</name>
+      <size>2</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>3</columnIndex>
+      <name>VerifyUpdateSuccessMsg</name>
+      <size>2</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

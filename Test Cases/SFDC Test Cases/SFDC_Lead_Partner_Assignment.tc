@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SFDC_Lead_Partner_Assignment</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>871a4f9c-fcca-4bec-8e54-489407d66e19</testCaseGuid>
+</TestCaseEntity>

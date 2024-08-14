@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_- Select One -YesNo_1_2</name>
+   <tag></tag>
+   <elementGuidId>95f88175-ce2a-4bb5-a589-b2f15cf85d24</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#Etailer__cf</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='Etailer__cf']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;*  Do you sell via E-commerce only?&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>679484d5-3664-4eb1-8073-7bf5802d762b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ctl00$ctl00$ctl00$GlobalBodyContent$ExternalBodyContent$BodyContent$AccountRegistration$Etailer__cf</value>
+      <webElementGuid>58012603-f8fb-425d-9f57-895fb8d1f94f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>Etailer__cf</value>
+      <webElementGuid>ee2686b5-9c54-4315-adae-188629232ae7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>1968d530-436c-4d02-bce3-254669d6b70f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+				- Select One -
+				Yes
+				No
+
+			</value>
+      <webElementGuid>aaa1af72-21c3-48a7-aefb-8aae8abfb937</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Etailer__cf&quot;)</value>
+      <webElementGuid>e9106565-0859-4fe7-9f95-266a98d483e9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='Etailer__cf']</value>
+      <webElementGuid>b96c4365-3603-48cd-a0be-a5930ce7cb88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Etailer']/div/select</value>
+      <webElementGuid>e3bd76ed-595c-47da-8285-b7eb2699b250</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[9]/following::select[1]</value>
+      <webElementGuid>8fce24df-1dc7-489c-b049-82eee1364f96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[21]/div/div/select</value>
+      <webElementGuid>eae9bf95-e9ea-49f4-9c8a-49ad00af1bce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'ctl00$ctl00$ctl00$GlobalBodyContent$ExternalBodyContent$BodyContent$AccountRegistration$Etailer__cf' and @id = 'Etailer__cf' and (text() = '
+				- Select One -
+				Yes
+				No
+
+			' or . = '
+				- Select One -
+				Yes
+				No
+
+			')]</value>
+      <webElementGuid>6d4a64af-0b62-4c42-9d05-29f6104ae504</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

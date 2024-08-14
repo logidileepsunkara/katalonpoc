@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_- Select One -1-1011-5051-100101-500501</name>
+   <tag></tag>
+   <elementGuidId>86207405-5901-4679-b24d-53a2be86e48a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#Total_Salesreps__cf</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='Total_Salesreps__cf']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;*  Total Sales Representatives&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>fb38ceb2-267e-42af-8324-1831250f62b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ctl00$ctl00$ctl00$GlobalBodyContent$ExternalBodyContent$BodyContent$AccountRegistration$Total_Salesreps__cf</value>
+      <webElementGuid>0d06bb2d-fb3b-43c9-9ace-1cf6fdb64d67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>Total_Salesreps__cf</value>
+      <webElementGuid>2e2f0fbf-68f6-450e-983e-f641658dade3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>f46cfda7-9c85-41f8-82bb-d4fd6fc1af27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+				- Select One -
+				1-10
+				11-50
+				51-100
+				101-500
+				501+
+
+			</value>
+      <webElementGuid>c481d8ba-99c7-4e50-b5b8-512e614358f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Total_Salesreps__cf&quot;)</value>
+      <webElementGuid>8b2de4c1-006e-454c-b290-e3cc715f334f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='Total_Salesreps__cf']</value>
+      <webElementGuid>9800c0c4-12d2-431e-a865-4747970b9462</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='GlobalBodyContent_ExternalBodyContent_BodyContent_AccountRegistration_ApplicantForm']/div[11]/div/div/select</value>
+      <webElementGuid>4bf35448-e222-4edc-8a31-35ba65258065</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Are you a Miami-based Exporter?'])[1]/following::select[2]</value>
+      <webElementGuid>40e2a8f9-6695-4f46-9f5a-5058b392f871</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]/div/div/select</value>
+      <webElementGuid>31967dc1-76ec-4c07-8813-c51446a670cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'ctl00$ctl00$ctl00$GlobalBodyContent$ExternalBodyContent$BodyContent$AccountRegistration$Total_Salesreps__cf' and @id = 'Total_Salesreps__cf' and (text() = '
+				- Select One -
+				1-10
+				11-50
+				51-100
+				101-500
+				501+
+
+			' or . = '
+				- Select One -
+				1-10
+				11-50
+				51-100
+				101-500
+				501+
+
+			')]</value>
+      <webElementGuid>92fef271-c46a-4985-b5fc-6c8865f800d2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

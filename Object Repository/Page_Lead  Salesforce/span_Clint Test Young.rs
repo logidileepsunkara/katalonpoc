@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Clint Test Young</name>
+   <tag></tag>
+   <elementGuidId>cbda0949-d800-433b-a208-629082780d7c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='j_id0:j_id2:j_id3:j_id5:j_id6:j_id35:j_id42:0:j_id82']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Clint Test Young&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>301af0aa-c038-4836-ac6e-32a436d751f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>j_id0:j_id2:j_id3:j_id5:j_id6:j_id35:j_id42:0:j_id82</value>
+      <webElementGuid>61aa7e1c-2872-44f8-bd48-c9d388b92086</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Clint Test Young</value>
+      <webElementGuid>fb45bfdd-52fe-4e0f-8b3c-700d98af27a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;j_id0:j_id2:j_id3:j_id5:j_id6:j_id35:j_id42:0:j_id82&quot;)</value>
+      <webElementGuid>6be8e5ce-85b5-4bbb-80d0-1b02ea095091</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Lead  Salesforce/iframe_Activity History_vfFrameId_1722545076962</value>
+      <webElementGuid>397d27a6-2d4c-4a95-a56b-4bb91758fe3d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='j_id0:j_id2:j_id3:j_id5:j_id6:j_id35:j_id42:0:j_id82']</value>
+      <webElementGuid>3fda997a-40ba-48fe-993b-62f52446e553</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//td[@id='j_id0:j_id2:j_id3:j_id5:j_id6:j_id35:j_id42:0:j_id45']/span</value>
+      <webElementGuid>96795e5f-991b-4718-9bf3-02b41cf2659f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Job Title'])[1]/following::span[1]</value>
+      <webElementGuid>0ad7b1e3-d892-4619-933e-7c5e0170b4c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phone'])[1]/following::span[1]</value>
+      <webElementGuid>6f339009-0f56-42ef-b358-ba7f979dab9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='crm01apr24cty'])[1]/preceding::span[1]</value>
+      <webElementGuid>a2e63d15-ad23-4cff-93b7-a350bace024d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='California'])[1]/preceding::span[2]</value>
+      <webElementGuid>2331ed3f-466f-4a7e-a77a-0153d320db39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Clint Test Young']/parent::*</value>
+      <webElementGuid>8554af3b-3898-4ab2-9646-e52c213a1127</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/span</value>
+      <webElementGuid>45e4839e-ed30-4080-b1a3-c81d2005a69b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'j_id0:j_id2:j_id3:j_id5:j_id6:j_id35:j_id42:0:j_id82' and (text() = 'Clint Test Young' or . = 'Clint Test Young')]</value>
+      <webElementGuid>3c4a16b8-1340-45eb-8edc-63d5b64b44de</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

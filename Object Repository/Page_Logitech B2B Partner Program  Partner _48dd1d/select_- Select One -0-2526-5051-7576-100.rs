@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_- Select One -0-2526-5051-7576-100</name>
+   <tag></tag>
+   <elementGuidId>884e1fcf-9bd7-4449-83b5-1f25e1d620f4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#GlobalBodyContent_ExternalBodyContent_BodyContent_AccountRegistration_Hardware_Business_Pct__cf</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='GlobalBodyContent_ExternalBodyContent_BodyContent_AccountRegistration_Hardware_Business_Pct__cf']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;*  Total Company Hardware Business Revenue (%):&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>be6af580-d869-4b63-b0af-aeca336e6ffa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ctl00$ctl00$ctl00$GlobalBodyContent$ExternalBodyContent$BodyContent$AccountRegistration$Hardware_Business_Pct__cf</value>
+      <webElementGuid>95be88a5-6497-4c49-91d3-2cc81e2a94fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>GlobalBodyContent_ExternalBodyContent_BodyContent_AccountRegistration_Hardware_Business_Pct__cf</value>
+      <webElementGuid>849c2d4a-5d73-4d8a-b1f3-86db6e696f38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>6848e4ab-c5bf-4589-bebb-8debdb682d04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+				- Select One -
+				0-25%
+				26-50%
+				51-75%
+				76-100%
+
+			</value>
+      <webElementGuid>5425f557-8864-4002-881f-28b8d80c094a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;GlobalBodyContent_ExternalBodyContent_BodyContent_AccountRegistration_Hardware_Business_Pct__cf&quot;)</value>
+      <webElementGuid>58551288-03e3-4737-86fd-83937f5cb5f7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='GlobalBodyContent_ExternalBodyContent_BodyContent_AccountRegistration_Hardware_Business_Pct__cf']</value>
+      <webElementGuid>8f6bfda1-4504-464f-bc81-9c9b1af88417</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='GlobalBodyContent_ExternalBodyContent_BodyContent_AccountRegistration_ApplicantForm']/div[16]/div/div/select</value>
+      <webElementGuid>31bb4db9-278e-4102-850b-1202b54928a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[4]/following::select[1]</value>
+      <webElementGuid>101f3ce8-4822-4df5-b400-e3801c4eefe1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[16]/div/div/select</value>
+      <webElementGuid>f6364db9-962a-4b12-bf5c-151f94e852fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'ctl00$ctl00$ctl00$GlobalBodyContent$ExternalBodyContent$BodyContent$AccountRegistration$Hardware_Business_Pct__cf' and @id = 'GlobalBodyContent_ExternalBodyContent_BodyContent_AccountRegistration_Hardware_Business_Pct__cf' and (text() = '
+				- Select One -
+				0-25%
+				26-50%
+				51-75%
+				76-100%
+
+			' or . = '
+				- Select One -
+				0-25%
+				26-50%
+				51-75%
+				76-100%
+
+			')]</value>
+      <webElementGuid>820a7149-2361-4a4a-86c5-96cd63954c5c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

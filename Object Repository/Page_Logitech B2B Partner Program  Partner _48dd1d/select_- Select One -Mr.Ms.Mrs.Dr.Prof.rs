@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_- Select One -Mr.Ms.Mrs.Dr.Prof</name>
+   <tag></tag>
+   <elementGuidId>d4c03478-71bb-47e8-b578-6062caafe44a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='GlobalBodyContent_ExternalBodyContent_BodyContent_AccountRegistrationAlliance_Salutation']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#GlobalBodyContent_ExternalBodyContent_BodyContent_AccountRegistrationAlliance_Salutation</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Salutation&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>4ad2bbcd-7b72-45fb-b36c-d81155d37f01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ctl00$ctl00$ctl00$GlobalBodyContent$ExternalBodyContent$BodyContent$AccountRegistrationAlliance$Salutation</value>
+      <webElementGuid>e0a23b46-e3ba-411e-bd1f-2b8a21151325</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>GlobalBodyContent_ExternalBodyContent_BodyContent_AccountRegistrationAlliance_Salutation</value>
+      <webElementGuid>1254e584-a4f3-47a0-ae0a-89ca88e4cd15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>255a24c9-237d-4bcd-9320-d73a93033204</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+				- Select One -
+				Mr.
+				Ms.
+				Mrs.
+				Dr.
+				Prof.
+
+			</value>
+      <webElementGuid>c220e6c9-5c1e-4732-b426-e6ef819d3b21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;GlobalBodyContent_ExternalBodyContent_BodyContent_AccountRegistrationAlliance_Salutation&quot;)</value>
+      <webElementGuid>cfcba0e2-d93d-4cc9-9076-25414559a26e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='GlobalBodyContent_ExternalBodyContent_BodyContent_AccountRegistrationAlliance_Salutation']</value>
+      <webElementGuid>1c3c8443-69bf-4359-b622-125f57433f04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='GlobalBodyContent_ExternalBodyContent_BodyContent_AccountRegistrationAlliance_ApplicantForm']/div[16]/div/div/select</value>
+      <webElementGuid>e0035251-40d7-400a-820f-f9cfd41b9c5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Salutation'])[1]/following::select[1]</value>
+      <webElementGuid>c420df90-9d77-4869-bb47-4af69e40d29b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Information'])[1]/following::select[1]</value>
+      <webElementGuid>4d245da7-1522-4cfa-bef1-9d36785b6ba4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[16]/div/div/select</value>
+      <webElementGuid>16d8adff-e536-456b-88bf-ac314ba5bd0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'ctl00$ctl00$ctl00$GlobalBodyContent$ExternalBodyContent$BodyContent$AccountRegistrationAlliance$Salutation' and @id = 'GlobalBodyContent_ExternalBodyContent_BodyContent_AccountRegistrationAlliance_Salutation' and (text() = '
+				- Select One -
+				Mr.
+				Ms.
+				Mrs.
+				Dr.
+				Prof.
+
+			' or . = '
+				- Select One -
+				Mr.
+				Ms.
+				Mrs.
+				Dr.
+				Prof.
+
+			')]</value>
+      <webElementGuid>3393ab39-0945-4c27-aed4-0edd06856f31</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

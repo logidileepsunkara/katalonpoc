@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_No, I am not an employee at any of the ab_283bfd</name>
+   <tag></tag>
+   <elementGuidId>f42d0ed6-d102-4493-81ab-9e33a44735a0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#NewAccountMessage > b</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='NewAccountMessage']/b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;No, I am not an employee at any of the above companies.&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>a09cb96f-0e5c-4638-9c11-19d907523625</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>No, I am not an employee at any of the above companies.</value>
+      <webElementGuid>7b7d621a-a02f-40d0-be97-20816b983656</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;NewAccountMessage&quot;)/b[1]</value>
+      <webElementGuid>9d4ef058-fde6-46b9-876c-a141364d49e3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='NewAccountMessage']/b</value>
+      <webElementGuid>70241f8a-a905-4ea5-a31b-00dd965bda12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Partner'])[19]/following::b[1]</value>
+      <webElementGuid>d48a982a-b393-43e3-b5ef-312f4d926f55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='No, I am not an employee at any of the above companies.']/parent::*</value>
+      <webElementGuid>8b1be5d4-8bc8-4e94-a449-cc294cafa0f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[23]/label/div/b</value>
+      <webElementGuid>3a1b64af-116c-44e0-8d67-04c513311aae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = 'No, I am not an employee at any of the above companies.' or . = 'No, I am not an employee at any of the above companies.')]</value>
+      <webElementGuid>e2577483-8609-4804-8428-97bad8567200</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

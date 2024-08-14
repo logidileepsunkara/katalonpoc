@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img__lookupIconOn</name>
+   <tag></tag>
+   <elementGuidId>721d2d37-9f29-4681-855f-dab0c5383e7d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.lookupIconOn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='j_id0:j_id2:j_id3:j_id5:j_id6:details:j_id32_lkwgt']/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Partner Account Lookup (New Window)&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>e5c1990a-d0bd-4193-9067-59f3b791dd6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/img/s.gif</value>
+      <webElementGuid>4ba23e9a-3891-4f32-94cc-61da2cdbeeb7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Partner Account Lookup (New Window)</value>
+      <webElementGuid>7bb661d2-7d89-442b-a9d0-d625f2c1f66e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lookupIconOn</value>
+      <webElementGuid>13f38f05-994c-4978-b245-1cd33d1155f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onblur</name>
+      <type>Main</type>
+      <value>this.className = 'lookupIcon';</value>
+      <webElementGuid>1a56f0dd-9a97-4a01-a44b-565b17f8c1c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onfocus</name>
+      <type>Main</type>
+      <value>this.className = 'lookupIconOn';</value>
+      <webElementGuid>6283906c-8a90-4960-b184-c364ea6dded2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onmouseout</name>
+      <type>Main</type>
+      <value>this.className = 'lookupIcon';this.className = 'lookupIcon';</value>
+      <webElementGuid>486d3abc-69ac-4df4-9397-64254a198e56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onmouseover</name>
+      <type>Main</type>
+      <value>this.className = 'lookupIconOn';this.className = 'lookupIconOn';</value>
+      <webElementGuid>a9ae885e-8b71-4a85-8327-0b634b222de6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Partner Account Lookup (New Window)</value>
+      <webElementGuid>507b0ca1-12ba-4115-b1ab-ecc51697c2b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;j_id0:j_id2:j_id3:j_id5:j_id6:details:j_id32_lkwgt&quot;)/img[@class=&quot;lookupIconOn&quot;]</value>
+      <webElementGuid>e6c2d3f6-3814-43e8-a0ca-1fb5fe805b3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Lead  Salesforce/iframe_Activity History_vfFrameId_1722545076962</value>
+      <webElementGuid>b606d83b-3aa7-4965-89f3-93c351e4e6c9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='j_id0:j_id2:j_id3:j_id5:j_id6:details:j_id32_lkwgt']/img</value>
+      <webElementGuid>36fdf29b-c5f3-4ede-baf4-b95beaf06834</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Partner Account Lookup (New Window)']</value>
+      <webElementGuid>d44406b6-654d-4f86-850a-a2c4188b18b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/a/img</value>
+      <webElementGuid>9a0024d6-11eb-46cf-8110-462f18454799</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/img/s.gif' and @alt = 'Partner Account Lookup (New Window)' and @title = 'Partner Account Lookup (New Window)']</value>
+      <webElementGuid>b04bf728-1bb3-4960-845b-ce9988eff9ac</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

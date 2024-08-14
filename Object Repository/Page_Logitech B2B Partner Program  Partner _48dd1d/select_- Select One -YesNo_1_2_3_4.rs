@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_- Select One -YesNo_1_2_3_4</name>
+   <tag></tag>
+   <elementGuidId>1448d4a5-1f7a-4fd1-80c6-d923c7c77ca8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#GlobalBodyContent_ExternalBodyContent_BodyContent_AccountRegistration_Apple_Reseller__cf</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='GlobalBodyContent_ExternalBodyContent_BodyContent_AccountRegistration_Apple_Reseller__cf']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;*  Are you an Apple Reseller?&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>a4ed8ca8-0aae-4589-b66c-5a337cc87ecf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ctl00$ctl00$ctl00$GlobalBodyContent$ExternalBodyContent$BodyContent$AccountRegistration$Apple_Reseller__cf</value>
+      <webElementGuid>d7bd3980-8ce9-4bc6-9d2c-8ccfdb55d8af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>GlobalBodyContent_ExternalBodyContent_BodyContent_AccountRegistration_Apple_Reseller__cf</value>
+      <webElementGuid>70923b99-5fdc-4a50-bd90-9c4859ae0387</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>2380be32-26f8-4ed6-bd0b-5a28d8244e76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+				- Select One -
+				Yes
+				No
+
+			</value>
+      <webElementGuid>72a259be-8ee6-43ef-bce3-575801a4b490</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;GlobalBodyContent_ExternalBodyContent_BodyContent_AccountRegistration_Apple_Reseller__cf&quot;)</value>
+      <webElementGuid>53c9df3f-ef9c-4af1-a48c-3b47e46f7389</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='GlobalBodyContent_ExternalBodyContent_BodyContent_AccountRegistration_Apple_Reseller__cf']</value>
+      <webElementGuid>a5171340-fc8b-4c3f-a159-8cbf67f004a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='AppleReseller']/div/select</value>
+      <webElementGuid>bb30588e-223e-4948-849a-583afcfc3880</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Information'])[1]/preceding::select[1]</value>
+      <webElementGuid>be94d364-4ead-4f37-84ae-76b3711f3849</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[22]/div/div/select</value>
+      <webElementGuid>f40d157f-8922-42bb-9c47-293302587894</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'ctl00$ctl00$ctl00$GlobalBodyContent$ExternalBodyContent$BodyContent$AccountRegistration$Apple_Reseller__cf' and @id = 'GlobalBodyContent_ExternalBodyContent_BodyContent_AccountRegistration_Apple_Reseller__cf' and (text() = '
+				- Select One -
+				Yes
+				No
+
+			' or . = '
+				- Select One -
+				Yes
+				No
+
+			')]</value>
+      <webElementGuid>9762f8a6-251e-440b-ab28-1e55a7060ae2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>New Test Suite_2 Test Cases - Copy</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient>dsunkara@logitech.com;</mailRecipient>
+   <numberOfRerun>1</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>628223ca-faaf-49f0-a6c1-fe98a9575e89</testSuiteGuid>
+   <testCaseLink>
+      <guid>cb50fc8d-f0ca-4471-98ab-a30c6ae67ddc</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Partner Registration/Partner_Login_Update_MyProfile</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>5da57a67-7045-4dee-a20a-1cabae4b2301</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Excel Data</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>5da57a67-7045-4dee-a20a-1cabae4b2301</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>UserName</value>
+         <variableId>4d692130-35f0-4b0a-b45f-05e344c57bd6</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>5da57a67-7045-4dee-a20a-1cabae4b2301</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Password</value>
+         <variableId>89563ec0-f5b3-4c77-b00a-b0a7a71b972f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>5da57a67-7045-4dee-a20a-1cabae4b2301</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>PortalURL</value>
+         <variableId>c31b7910-d180-49e3-8777-1d42156131ea</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>5da57a67-7045-4dee-a20a-1cabae4b2301</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>VerifyUpdateSuccessMsg</value>
+         <variableId>e15b81d2-8297-41f9-b87e-5d84734f538d</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>6f000f99-488e-498b-afda-40252dc42a39</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/SFDC Test Cases/SFDC_Lead_Creation</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+</TestSuiteEntity>

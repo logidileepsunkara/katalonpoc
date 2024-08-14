@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_- Select One -0-20m20-100m100m-500m5_ee0fde</name>
+   <tag></tag>
+   <elementGuidId>21995680-3d59-4688-87f0-490ec3c44aae</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#GlobalBodyContent_ExternalBodyContent_BodyContent_AccountRegistration_Annual_Revenue__cf</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='GlobalBodyContent_ExternalBodyContent_BodyContent_AccountRegistration_Annual_Revenue__cf']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;*  Average Annual Revenue (in USD)&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>93913ec6-6544-4964-9e34-245a1d1ff439</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ctl00$ctl00$ctl00$GlobalBodyContent$ExternalBodyContent$BodyContent$AccountRegistration$Annual_Revenue__cf</value>
+      <webElementGuid>195e7df1-489a-40c8-bc99-a2db31ca191b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>GlobalBodyContent_ExternalBodyContent_BodyContent_AccountRegistration_Annual_Revenue__cf</value>
+      <webElementGuid>87e1d8ad-47ca-4660-8a28-3ae877f183bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>701e2eab-5f79-4315-aa83-547392afec7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+				- Select One -
+				0-20m
+				20-100m
+				100m-500m
+				500m-1b
+				1b+
+
+			</value>
+      <webElementGuid>e4061d95-322c-41f4-bca1-4139a938d78e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;GlobalBodyContent_ExternalBodyContent_BodyContent_AccountRegistration_Annual_Revenue__cf&quot;)</value>
+      <webElementGuid>bc1f1863-c9e4-4b4d-927d-8fb49dac2b6c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='GlobalBodyContent_ExternalBodyContent_BodyContent_AccountRegistration_Annual_Revenue__cf']</value>
+      <webElementGuid>606ae006-9482-4476-b1b6-c2bbc7228477</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='GlobalBodyContent_ExternalBodyContent_BodyContent_AccountRegistration_ApplicantForm']/div[15]/div/div/select</value>
+      <webElementGuid>1e7176ab-f1f9-4501-8c39-54acd17059fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Why are you interested in becoming a Logitech for Business partner?'])[1]/following::select[1]</value>
+      <webElementGuid>b4720003-2045-4bed-a977-e9dd30c0720e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[15]/div/div/select</value>
+      <webElementGuid>cc6f8050-c9cc-4607-91fe-409d794165f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'ctl00$ctl00$ctl00$GlobalBodyContent$ExternalBodyContent$BodyContent$AccountRegistration$Annual_Revenue__cf' and @id = 'GlobalBodyContent_ExternalBodyContent_BodyContent_AccountRegistration_Annual_Revenue__cf' and (text() = '
+				- Select One -
+				0-20m
+				20-100m
+				100m-500m
+				500m-1b
+				1b+
+
+			' or . = '
+				- Select One -
+				0-20m
+				20-100m
+				100m-500m
+				500m-1b
+				1b+
+
+			')]</value>
+      <webElementGuid>d5b0dd96-b97b-4161-8c50-6b342f8c5059</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

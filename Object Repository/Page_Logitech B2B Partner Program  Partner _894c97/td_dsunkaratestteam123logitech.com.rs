@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_dsunkaratestteam123logitech.com</name>
+   <tag></tag>
+   <elementGuidId>7cc9dd43-c6ff-4c92-b53f-da2ace1f8cc9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-of-type(4) > td:nth-of-type(2)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='GlobalBodyContent_InternalBodyContent_BodyContent_MemberGrid']/table/tbody/tr[4]/td[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;dsunkara+testteam123@logitech.com&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>7af56d98-ff5a-40d6-9de6-0bf22cea984d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+											dsunkara+testteam123@logitech.com
+										</value>
+      <webElementGuid>70588c49-7b9d-4913-8c80-4da99e4259d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;GlobalBodyContent_InternalBodyContent_BodyContent_MemberGrid&quot;)/table[@class=&quot;table table-striped table-hover&quot;]/tbody[1]/tr[4]/td[2]</value>
+      <webElementGuid>7be62107-c0be-4a8f-a02b-2461af75b869</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='GlobalBodyContent_InternalBodyContent_BodyContent_MemberGrid']/table/tbody/tr[4]/td[2]</value>
+      <webElementGuid>544bb6bb-68ca-4f1e-8196-47f696479070</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TeamMem Fname Lname'])[1]/following::td[1]</value>
+      <webElementGuid>888ee414-b04e-4d1b-946a-a33766068dc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LogitechPartnerPortal_PartnerAgreement_en_20230320.html'])[1]/following::td[2]</value>
+      <webElementGuid>e8df1407-c813-4718-8a87-c9c212e64b8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Executive'])[3]/preceding::td[4]</value>
+      <webElementGuid>b8e5cf64-16df-4726-88fb-5d5301f123ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[4]/td[2]</value>
+      <webElementGuid>ee26ff7e-d460-47a3-9ea1-20c2a24fb061</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '
+											dsunkara+testteam123@logitech.com
+										' or . = '
+											dsunkara+testteam123@logitech.com
+										')]</value>
+      <webElementGuid>fc133eb3-0344-45b0-a2cc-b1425e73c82e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

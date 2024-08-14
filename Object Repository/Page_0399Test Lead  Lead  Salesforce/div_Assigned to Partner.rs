@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Assigned to Partner</name>
+   <tag></tag>
+   <elementGuidId>a260b171-b1fa-4aba-8864-b62b31124bdd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sectionContent-1714']/dl/slot/records-record-layout-row[9]/slot/records-record-layout-item[2]/div/div/dd/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^Assigned to Partner$/</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1e931bb6-e396-4242-9588-3c7917446547</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slds-form-element__control</value>
+      <webElementGuid>675ccbe7-bfa7-4fe1-8d40-b1e699fea3a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Assigned to Partner</value>
+      <webElementGuid>bd36ba45-3868-4838-a052-5e7b927b3684</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sectionContent-1714&quot;)/dl[@class=&quot;slds-form&quot;]/slot[1]/records-record-layout-row[@class=&quot;slds-form__row&quot;]/slot[@class=&quot;slds-grid slds-size_1-of-1&quot;]/records-record-layout-item[@class=&quot;slds-form__item slds-no-space&quot;]/div[@class=&quot;slds-grid slds-size_1-of-1 label-inline&quot;]/div[@class=&quot;slds-form-element slds-hint-parent test-id__output-root slds-form-element_readonly slds-form-element_horizontal&quot;]/dd[1]/div[@class=&quot;slds-form-element__control&quot;]</value>
+      <webElementGuid>ac3563d0-3598-41be-baf8-fabfd369307f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sectionContent-1714']/dl/slot/records-record-layout-row[9]/slot/records-record-layout-item[2]/div/div/dd/div</value>
+      <webElementGuid>1197793f-ba56-4d6e-8def-dbcf0c97cb47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lead Distribution Status'])[1]/following::div[1]</value>
+      <webElementGuid>7fb77816-df12-4a9a-8497-a8a463f681da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Other Distributor Name'])[1]/following::div[5]</value>
+      <webElementGuid>02adcc05-7698-4666-9572-298489b083e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Competitor'])[1]/preceding::div[1]</value>
+      <webElementGuid>4d993f8b-6c7e-4f84-843b-68f603ebe418</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//records-record-layout-section[5]/div/div/dl/slot/records-record-layout-row[9]/slot/records-record-layout-item[2]/div/div/dd/div</value>
+      <webElementGuid>1d7650b7-8a50-452e-9169-382b6a0bdfe5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Assigned to Partner' or . = 'Assigned to Partner')]</value>
+      <webElementGuid>41a9c252-a4e5-4ce8-a81b-370acb36f766</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

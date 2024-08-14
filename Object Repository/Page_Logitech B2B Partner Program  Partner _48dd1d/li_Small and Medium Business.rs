@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Small and Medium Business</name>
+   <tag></tag>
+   <elementGuidId>17afba59-200f-4675-b455-7460caf736ef</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='select2-Market_Segment_Focus__cf-result-7tjn-Small and Medium Business']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=treeitem[name=&quot;Small and Medium Business&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>d6bdcbb3-9d47-4041-bd45-999450f23216</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-results__option select2-results__option--highlighted</value>
+      <webElementGuid>fe189061-7f28-45ac-ae6f-079856a9fd1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>select2-Market_Segment_Focus__cf-result-7tjn-Small and Medium Business</value>
+      <webElementGuid>164eff9b-7565-4a10-89cc-7b3c95693bbc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>treeitem</value>
+      <webElementGuid>fddc21c9-9d7f-4d8e-b9c3-e7de29d3fe5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>862cf42e-b6f6-4657-8139-3650d28795c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Small and Medium Business</value>
+      <webElementGuid>5e1a344c-d1f2-4005-95f2-83cd42bb8cae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;select2-Market_Segment_Focus__cf-result-7tjn-Small and Medium Business&quot;)</value>
+      <webElementGuid>339753b8-bb98-4930-a9a7-662110a9aa11</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//li[@id='select2-Market_Segment_Focus__cf-result-7tjn-Small and Medium Business']</value>
+      <webElementGuid>70fcd625-284e-4e69-ae5d-b014d85de729</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='select2-Market_Segment_Focus__cf-results']/li[3]</value>
+      <webElementGuid>766ca6e7-8890-442a-8384-fe6fbf38e8a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Midmarket'])[2]/following::li[1]</value>
+      <webElementGuid>96541acf-6f0f-498e-a96a-222a461c1403</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enterprise/Corporate'])[2]/following::li[2]</value>
+      <webElementGuid>6069d5fd-9d7e-4cfb-b07d-2ddecf9bb369</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//body/span/span/span/ul/li[3]</value>
+      <webElementGuid>5c4ae91e-9aca-41a3-adac-3bfafa21e6d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[@id = 'select2-Market_Segment_Focus__cf-result-7tjn-Small and Medium Business' and (text() = 'Small and Medium Business' or . = 'Small and Medium Business')]</value>
+      <webElementGuid>9e595a44-cb58-4fcd-a6d7-54acca72f6c1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>TestGmail</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'pbjtoscauser@logitech.com'</initValue>
+      <name>PBJUserName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'M$harma2'</initValue>
+      <name>PBJUserPass</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Inbox'</initValue>
+      <name>LabelName</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

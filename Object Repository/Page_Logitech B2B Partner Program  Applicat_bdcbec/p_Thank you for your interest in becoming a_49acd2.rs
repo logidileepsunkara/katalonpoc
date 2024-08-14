@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Thank you for your interest in becoming a_49acd2</name>
+   <tag></tag>
+   <elementGuidId>9b2bb52d-9e6e-4f91-8f8f-af03ff2a1d3c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='EditableArea1']/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Thank you for your interest in becoming a partner. Your application is being rev&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>ad10b8ca-67f1-421c-b6da-c2f5eb52cd52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Thank you for your interest in becoming a partner. Your application is being reviewed, and we will get back to you within three business days with an update on the status of your application.</value>
+      <webElementGuid>a3a2e338-c7b8-4f25-977d-393c84a60ed3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;EditableArea1&quot;)/p[1]</value>
+      <webElementGuid>936fd685-4af3-464c-9038-b5a8d9d36b83</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='EditableArea1']/p</value>
+      <webElementGuid>989e6b0a-fcb7-4fc2-86af-bb1d0dbd48f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Application Submitted'])[1]/following::p[1]</value>
+      <webElementGuid>8ee4d051-ab31-4ee2-9ab4-1fdd74110377</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Choose Your Country'])[1]/following::p[1]</value>
+      <webElementGuid>a7b1b9b8-93a5-4a3d-b733-b36be491fe5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Web Privacy Policy'])[1]/preceding::p[2]</value>
+      <webElementGuid>5e857ec0-99fc-45f9-bfc3-ec48eaffa28c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Thank you for your interest in becoming a partner. Your application is being reviewed, and we will get back to you within three business days with an update on the status of your application.']/parent::*</value>
+      <webElementGuid>4543b16b-0c9f-46e7-83df-982d025d3438</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>08ae39e5-798b-4b83-8b0b-5fe14ad85d5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Thank you for your interest in becoming a partner. Your application is being reviewed, and we will get back to you within three business days with an update on the status of your application.' or . = 'Thank you for your interest in becoming a partner. Your application is being reviewed, and we will get back to you within three business days with an update on the status of your application.')]</value>
+      <webElementGuid>4b39a161-a2f3-4d1e-b853-06da305b3a51</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

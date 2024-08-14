@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_- Select One -YesNo_1_2_3</name>
+   <tag></tag>
+   <elementGuidId>30c2d64d-1784-4ad5-a18e-6132072869a7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#Do_you_sell_via_third_party_marketplaces__cf</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='Do_you_sell_via_third_party_marketplaces__cf']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;*  Do you sell via third party marketplaces?&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>b36a498c-fc03-4dbf-a466-9cda7f3a19a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ctl00$ctl00$ctl00$GlobalBodyContent$ExternalBodyContent$BodyContent$AccountRegistration$Do_you_sell_via_third_party_marketplaces__cf</value>
+      <webElementGuid>cf2aef03-4dcb-481e-8257-081733b1df49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>Do_you_sell_via_third_party_marketplaces__cf</value>
+      <webElementGuid>077b7d9f-d4a2-48b9-ad26-9d62e3e5b1dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>9473e677-afd8-480d-ba48-b6b0930dc376</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+				- Select One -
+				Yes
+				No
+
+			</value>
+      <webElementGuid>66ca80ca-8798-49d4-8d25-8f302af6a6de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Do_you_sell_via_third_party_marketplaces__cf&quot;)</value>
+      <webElementGuid>809119ea-1998-4f51-aa07-793dda786d30</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='Do_you_sell_via_third_party_marketplaces__cf']</value>
+      <webElementGuid>a17292e3-a7e2-4f71-b1ea-bf004285f7a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='EtailerHide']/div/select</value>
+      <webElementGuid>683bdd1b-a0b9-455b-a5bb-0f75511d4ef9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Information'])[1]/preceding::select[2]</value>
+      <webElementGuid>bb58485d-a9ef-4607-b596-a7b5f3262443</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[21]/div[2]/div/select</value>
+      <webElementGuid>c38c2351-18f6-4dcf-9def-e3f80fc8c6c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'ctl00$ctl00$ctl00$GlobalBodyContent$ExternalBodyContent$BodyContent$AccountRegistration$Do_you_sell_via_third_party_marketplaces__cf' and @id = 'Do_you_sell_via_third_party_marketplaces__cf' and (text() = '
+				- Select One -
+				Yes
+				No
+
+			' or . = '
+				- Select One -
+				Yes
+				No
+
+			')]</value>
+      <webElementGuid>d4a99f89-f083-4f6e-b7a3-3a73ad615d05</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

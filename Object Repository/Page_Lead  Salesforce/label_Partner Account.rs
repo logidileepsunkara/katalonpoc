@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Partner Account</name>
+   <tag></tag>
+   <elementGuidId>a738f70a-db3c-42f8-88bb-da07e22bbea6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='j_id0:j_id2:j_id3:j_id5:j_id6:details']/div/table/tbody/tr/th/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;*Partner Account&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>ef6b306c-2038-4701-91f6-6e99b7a6f3bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>j_id0:j_id2:j_id3:j_id5:j_id6:details:j_id32</value>
+      <webElementGuid>d0735272-c56c-45c0-b879-4a1cd3dfdd21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>*Partner Account</value>
+      <webElementGuid>bee7582e-6863-4329-aedb-80b8b34937b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;j_id0:j_id2:j_id3:j_id5:j_id6:details&quot;)/div[@class=&quot;pbSubsection&quot;]/table[@class=&quot;detailList&quot;]/tbody[1]/tr[1]/th[@class=&quot;labelCol vfLabelColTextWrap  first  last&quot;]/label[1]</value>
+      <webElementGuid>d5d69cf4-d9ef-4353-8022-0d18bae22002</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Lead  Salesforce/iframe_Activity History_vfFrameId_1722545076962</value>
+      <webElementGuid>27b1a57f-0444-4326-9115-b40581b22e74</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='j_id0:j_id2:j_id3:j_id5:j_id6:details']/div/table/tbody/tr/th/label</value>
+      <webElementGuid>93e9e51a-4736-4d90-8f20-4c05af9f6946</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Assign To Partner'])[1]/following::label[1]</value>
+      <webElementGuid>44e247c2-0213-4075-8e9a-b32f120dca45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show Only Lead Administrators'])[1]/preceding::label[1]</value>
+      <webElementGuid>1135b9fb-3335-4c24-ad8b-aec522b3725b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Partner Account']/parent::*</value>
+      <webElementGuid>afdee408-3519-4189-b498-d48a6d6eea09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label</value>
+      <webElementGuid>70464923-bbdf-4dab-be7e-1151213ad17e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = '*Partner Account' or . = '*Partner Account')]</value>
+      <webElementGuid>5e96924d-0b97-44fd-80d8-52b99aecf3f2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
